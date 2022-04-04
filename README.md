@@ -10,4 +10,4 @@
 
  iphone 13 pro           
 :-------------------------:
-![](https://user-images.githubusercontent.com/47676921/161469774-ff406cd1-eea1-4c14-adcf-37d2ecfbbef3.gif)
+<img src="https://user-images.githubusercontent.com/47676921/161469774-ff406cd1-eea1-4c14-adcf-37d2ecfbbef3.gif"  width="330" height="630">
